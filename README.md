@@ -18,7 +18,7 @@
 
 
 ## 练习项目
--[电商用户画像分析]（https://github.com/hangzhang23/Data_analysis/blob/main/%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F_%E5%AE%B6%E7%94%B5%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb）
+-[电商用户画像分析](https://github.com/hangzhang23/Data_analysis/blob/main/%E7%94%B5%E5%95%86%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F_%E5%AE%B6%E7%94%B5%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb）
 对应有一个电商数据用户画像分析，用了一个脱敏的电商用户数据，需要对家电类产品做一些促销活动。所以在这里用了用户画像的思想，通过对促销手中，上线时间，覆盖产品等做分析，得到一些结论可提供给促销计划使用。
 - [供应链RFM分析](https://github.com/hangzhang23/Data_analysis/blob/main/SupplyChain_analysis.ipynb)
 这里用一个供应链数据做了一个相应的数据探索，和一个RFM分析。
