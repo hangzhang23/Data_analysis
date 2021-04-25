@@ -24,3 +24,5 @@
 这里用一个供应链数据做了一个相应的数据探索，和一个RFM分析。
 - [供应链分析以及欺诈分析](https://github.com/hangzhang23/Data_analysis/blob/main/SupplyChain_analysis.ipynb)
 对上一个版本除了RFM分析之外，还增加了部分关于欺诈的地域和用户分析
+- [供应链的四个预测任务](https://github.com/hangzhang23/Data_analysis/blob/main/SupplyChain_prediction.ipynb)
+使用上面分析保存的结果，利用分类和回归模型分别做了预测欺诈，迟交订单，以及销售额和订货数量。
